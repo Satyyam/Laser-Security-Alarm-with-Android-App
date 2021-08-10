@@ -4,3 +4,10 @@ A security alarm is a system designed to detect intrusion – unauthorized entry
 
 And here is the youtube link to the video!
 https://www.youtube.com/watch?v=Jwn4U4FeLRQ&t=35s
+
+Some App Snaps:
+
+![](https://github.com/Satyyam/Laser-Security-Alarm-with-Android-App/blob/main/1.jpg)
+![](https://github.com/Satyyam/Laser-Security-Alarm-with-Android-App/blob/main/2.jpg)
+![](https://github.com/Satyyam/Laser-Security-Alarm-with-Android-App/blob/main/3.jpg)
+![](https://github.com/Satyyam/Laser-Security-Alarm-with-Android-App/blob/main/4.jpg)
